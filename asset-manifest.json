@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TRADING/static/css/main.4e2462f7.chunk.css",
+    "main.js": "/TRADING/static/js/main.93f047a1.chunk.js",
+    "main.js.map": "/TRADING/static/js/main.93f047a1.chunk.js.map",
+    "runtime-main.js": "/TRADING/static/js/runtime-main.58b1d47c.js",
+    "runtime-main.js.map": "/TRADING/static/js/runtime-main.58b1d47c.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/TRADING/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.80bbaafa.chunk.js": "/TRADING/static/js/2.80bbaafa.chunk.js",
+    "static/js/2.80bbaafa.chunk.js.map": "/TRADING/static/js/2.80bbaafa.chunk.js.map",
+    "index.html": "/TRADING/index.html",
+    "precache-manifest.a4f356798cf92961747d8d1b11ff0221.js": "/TRADING/precache-manifest.a4f356798cf92961747d8d1b11ff0221.js",
+    "service-worker.js": "/TRADING/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/TRADING/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.4e2462f7.chunk.css.map": "/TRADING/static/css/main.4e2462f7.chunk.css.map",
+    "static/js/2.80bbaafa.chunk.js.LICENSE.txt": "/TRADING/static/js/2.80bbaafa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58b1d47c.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.80bbaafa.chunk.js",
+    "static/css/main.4e2462f7.chunk.css",
+    "static/js/main.93f047a1.chunk.js"
+  ]
+}
